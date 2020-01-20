@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme">
+    <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="Dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Bureau/Docker/app.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +41,30 @@
       <recent name="D:\project_go\install-docker" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="install-docker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -54,6 +77,36 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme" />
+      <created>1579515837358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579515837358</updated>
+      <workItem from="1579515838540" duration="107000" />
+      <workItem from="1579515954004" duration="11690000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dockerfile">
+      <created>1579529649342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579529649342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dockerfile">
+      <created>1579530792098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579530792098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -62,7 +115,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -70,16 +125,39 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add comments in Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comments in Readme" />
+    <MESSAGE value="Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dockerfile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="118" key="CommitChangelistDialog2" timestamp="1578154589037">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="588" y="214" width="800" height="677" key="#Deployment" timestamp="1579530855725">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Deployment/67.27.1853.1053@67.27.1853.1053" timestamp="1579530855725" />
+    <state x="451" y="210" width="1084" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579530648404">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579530648404" />
+    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579530922145">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="598" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578154589037" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1578152560565">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579530922145" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579528917781">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579528917781" />
+    <state x="514" y="194" key="SettingsEditor" timestamp="1579530665623">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578152560565" />
+    <state x="514" y="194" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579530665623" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579529657618">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579529657618" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579515957671">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579515957671" />
   </component>
 </project>

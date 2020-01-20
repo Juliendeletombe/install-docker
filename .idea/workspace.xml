@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="Dockerfile">
+    <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579515837358</updated>
       <workItem from="1579515838540" duration="107000" />
-      <workItem from="1579515954004" duration="11690000" />
+      <workItem from="1579515954004" duration="13005000" />
     </task>
     <task id="LOCAL-00001" summary="Dockerfile">
       <created>1579529649342</created>
@@ -104,7 +104,35 @@
       <option name="project" value="LOCAL" />
       <updated>1579530792098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dockerfile">
+      <created>1579530979950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579530979950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dockerfile">
+      <created>1579530999850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579530999850</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dockerfile">
+      <created>1579531067499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579531067499</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dockerfile">
+      <created>1579531082079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579531082079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,11 +165,11 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="451" y="210" width="1084" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579530648404" />
-    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579531067408">
+    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579531082030">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="598" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578154589037" />
-    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579531067408" />
+    <state x="732" y="205" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579531082030" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579528917781">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -151,10 +179,10 @@
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578152560565" />
     <state x="514" y="194" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579530665623" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579531013942">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579531097680">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579531013942" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579531097680" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579515957671">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
